@@ -1,0 +1,6 @@
+# Requirements for DocuOps Agent
+google-genai
+python-dotenv
+requests
+chromadb
+streamlit
